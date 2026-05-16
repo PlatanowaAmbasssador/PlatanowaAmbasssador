@@ -42,7 +42,6 @@ Published in **Knowledge-Based Systems** (Elsevier, Q1).
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff88)
 ![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=ffa500)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=ffa500)
-![vectorbt](https://img.shields.io/badge/vectorbt-0d1117?style=for-the-badge&logoColor=white)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=ffa500)
 ![Plotly](https://img.shields.io/badge/Plotly-0d1117?style=for-the-badge&logo=plotly&logoColor=58a6ff)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=58a6ff)
