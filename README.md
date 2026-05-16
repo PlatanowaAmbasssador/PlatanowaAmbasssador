@@ -1,96 +1,83 @@
-<!-- KAMIL KASHIF — GITHUB PROFILE README -->
-
 <div align="center">
 
-```
-▶ PORTFOLIO.README — INITIALISED
-```
+<h1>Kamil Kashif</h1>
 
-# Kamil Kashif
+<p><b>AI Investments Research · Goldman Sachs TFI · Warsaw</b></p>
 
-**`AI × Quant Research`** — Goldman Sachs TFI · Warsaw
+<br>
 
-![Goldman Sachs](https://img.shields.io/badge/Goldman%20Sachs%20TFI-Investments%20Researcher-00ff88?style=flat-square&labelColor=0d1117&color=00ff88)
-![Elsevier](https://img.shields.io/badge/KBS%20Elsevier-Q1%20Author-ffa500?style=flat-square&labelColor=0d1117&color=ffa500)
-![Warsaw](https://img.shields.io/badge/WNE%20UW-Research%20MSc-58a6ff?style=flat-square&labelColor=0d1117&color=58a6ff)
-![Algo](https://img.shields.io/badge/Algo%20Trading-Researcher-ff5555?style=flat-square&labelColor=0d1117&color=ff5555)
+[![Goldman Sachs](https://img.shields.io/badge/Goldman%20Sachs%20TFI-Investments%20Researcher-00ff88?style=for-the-badge&labelColor=111111)](https://www.goldmansachs.com)
+[![Elsevier](https://img.shields.io/badge/Elsevier%20KBS-Q1%20Published-ffa500?style=for-the-badge&labelColor=111111)](https://www.sciencedirect.com/science/article/pii/S0950705125006094)
+[![WNE UW](https://img.shields.io/badge/WNE%20UW-Research%20MSc-58a6ff?style=for-the-badge&labelColor=111111)](https://www.wne.uw.edu.pl/en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamil-kashif-395413209/)
 
 </div>
 
 ---
 
-## `$ whoami`
+### 👤 About
 
-```python
-profile = {
-    "name"      : "Kamil Kashif",
-    "role"      : "AI Investments Research Analyst",
-    "company"   : "Goldman Sachs TFI · Warsaw",
-    "education" : "Research MSc — Data Science & Quant Finance, WNE UW",
-    "next"      : "PhD Track — Algorithmic Trading Systems",
-    "published" : "Knowledge-Based Systems (Elsevier, Q1)",
-    "location"  : "Warsaw, PL 🇵🇱 | roots: PK 🇵🇰",
-    "status"    : "OPEN TO RESEARCH COLLAB ▌",
-}
-```
+AI Investments Research Analyst at **Goldman Sachs TFI**, Warsaw.  
+Research Master's in **Data Science & Business Analytics** at WNE UW.  
+Published in **Knowledge-Based Systems** (Elsevier, Q1).
+
+🇵🇱 Warsaw &nbsp;|&nbsp; 🇵🇰 roots: Pakistan
 
 ---
 
-## `$ cat focus.log`
+### 🔭 What I'm Building
 
-```
-[●] AI Investments Research          Goldman Sachs TFI, Warsaw
-[◑] Research MSc                     Data Science & Quant Finance, WNE UW  
-[○] PhD Track                        RL-based Algorithmic Trading Systems
-[◈] Building                         Crypto signal pipelines + EdTech SaaS
-```
+| Project | Description | Status |
+|---|---|---|
+| 🤖 **Degen Alert Bot** | Crypto signal detection · tiered market cap scoring | 🟡 Active |
+| 🏫 **PhD Proposal** | Quantum Computing in Algorithmic Trading | 🟢 Building |
+| 📈 **Algo Trading System** | ETH/USDT · LightGBM · HMM regime filter · RL observer |  🔵 Planned |
 
 ---
 
-## `$ pip show tech-stack`
+### 🛠 Stack
 
 <div align="center">
 
-| Core | ML / Quant | APIs & Infra |
-|------|-----------|--------------|
-| `Python` | `PyTorch` | `OpenAI API` |
-| `SQL` | `LightGBM` | `Anthropic API` |
-| `R` | `vectorbt` | `FastAPI` |
-| `Jupyter` | `scikit-learn` | `PostgreSQL` |
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff88)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=ffa500)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=ffa500)
+![vectorbt](https://img.shields.io/badge/vectorbt-0d1117?style=for-the-badge&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=ffa500)
+![Plotly](https://img.shields.io/badge/Plotly-0d1117?style=for-the-badge&logo=plotly&logoColor=58a6ff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=58a6ff)
+![R](https://img.shields.io/badge/R-0d1117?style=for-the-badge&logo=r&logoColor=58a6ff)
 
 </div>
 
 ---
 
-## `$ git log --research`
+### 📄 Research
 
-```
-commit [Q1-PAPER]
-Author: Kamil Kashif <platanowa@github>
-Date:   2024
-
-    feat: publish algorithmic trading paper
-    
-    Journal : Knowledge-Based Systems (Elsevier)
-    Impact  : Q1 / High Impact Factor
-    Topic   : Reinforcement Learning · Trading Systems
-```
+| Year | Journal | Topic | Link |
+|------|---------|-------|------|
+| 2025 | ![](https://img.shields.io/badge/Elsevier-Q1-ffa500?style=flat-square&labelColor=111111) **Knowledge-Based Systems** | Hybrid LSTM-ARIMA · Algorithmic Trading | [📎 Paper](https://www.sciencedirect.com/science/article/pii/S0950705125006094) |
 
 ---
 
-## `$ connect --links`
+### 📊 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kamil--kashif-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamil-kashif-395413209/)
-[![University](https://img.shields.io/badge/University%20of%20Warsaw-WNE%20UW-003087?style=flat-square&logoColor=white)](https://www.wne.uw.edu.pl/)
+<div align="center">
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PlatanowaAmbasssador&theme=github_dark)
+&nbsp;
+![Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PlatanowaAmbasssador&theme=github_dark)
+
+![Streak](https://streak-stats.demolab.com?user=PlatanowaAmbasssador&theme=github-dark-blue&hide_border=true&ring=00ff88&fire=ffa500&currStreakLabel=00ff88)
+
+</div>
 
 ---
 
 <div align="center">
 
-```
-built different. always shipping.
-```
+![Views](https://komarev.com/ghpvc/?username=PlatanowaAmbasssador&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS)
 
-![Profile views](https://komarev.com/ghpvc/?username=PlatanowaAmbasssador&color=00ff88&style=flat-square&label=PROFILE+VIEWS)
+*built different. always shipping.*
 
 </div>
